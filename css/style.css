@@ -1,0 +1,56 @@
+*{
+box-sizing: border-box;
+
+}
+body{
+    background-color: whitesmoke;
+    width: 100%;
+    
+}
+header{
+    border: 1px solid black;
+    height: 70px;
+    margin:10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: auto;
+    /* text-align: center; */
+
+}
+#Container{
+    border: 1px solid black;
+float:left;
+margin-top: 10px;
+
+}
+#Container2{
+    border: 1px solid black;
+    float: right;
+    
+}
+#logo{
+    float: left;
+    margin: top 10px; 
+}
+#delicious{
+    font-family: 'Londrina Solid', cursive;/* float: right; */
+margin-top: -10px;
+margin-left: 50px;
+
+}
+#best{
+    font-family: 'Londrina Solid', cursive;
+    /* float: right; */
+    margin-top: -10px;
+    margin-left: 45px;
+}
+#shourcuts{
+    float: left;
+margin-top: 20px;
+margin-right: 20px;
+}
+#shourt2{
+
+    float: left;
+    margin-top: 20px;
+}
