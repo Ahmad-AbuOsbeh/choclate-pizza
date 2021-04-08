@@ -148,6 +148,9 @@ font-size: 45px;
     margin-left: 10%;
     margin-right: 10%;
     width: auto;
+    background-image: repeating-linear-gradient(0deg,
+      transparent 0 5px,
+      gray 20px 40px);
     /* -webkit-line-break:5px ; */
 
 }
@@ -156,6 +159,7 @@ font-size: 45px;
     margin-left: 10%;
     margin-right: 10%;
     width: auto;
+    margin-top: 25px;
 }
 
 #vanessa h2{
