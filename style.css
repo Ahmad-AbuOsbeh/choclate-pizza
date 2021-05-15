@@ -1,0 +1,41 @@
+main{
+    height: 1000px;
+    /* background-image:  url(https://img.theculturetrip.com/wp-content/uploads/2018/04/dana_cycling_in_jordan.jpg); */
+
+    background-repeat: no-repeat;
+
+
+}
+
+div{
+    border: 2px solid red;
+    margin-top: 100px;
+    height: 100px;
+    position: sticky;
+    top: 20px;
+    font-size: 90px;
+
+}
+
+section{
+    border: solid black;
+    /* position: relative;
+    top: 300px; */
+    height: 200px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 90px;
+}
+
+/* p{
+    border: solid 2px red;
+    height: 500px;
+}
+
+a{
+    border: solid 2px black;
+    /* margin-left: 500px; */
+    /* margin-bottom: 200px;
+    display: block;
+    /* background-color: rgb(134, 104, 86); */
+    /* padding-top:100px ; */
+/* }  */
